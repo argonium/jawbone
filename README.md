@@ -1,4 +1,4 @@
-# jawbone
+# Jawbone
 Jawbone is a Java WordNet API library (hence the "Jaw" portion of the name - an acronym for Java API for WordNet). It makes it very easy to search the Wordnet data files for terms, either all terms or just those terms matching some search criteria. It is compatible with WordNet versions 2.1 and 3.0.
 
 The library knows how to parse the data files (data.\*) and index files (index.\*). These two sets of files constitute the majority of data in WordNet. The library does not parse the exception files (\*.exc) or the verb files (\*.vrb).
